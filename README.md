@@ -5,7 +5,7 @@ I'm Dzhem.
 Part of Mezos team based in Ghent.
 
 ### Linkedin
-[![](https://img.shields.io/badge/-James%20Hyphen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dzhemaptula/)](https://www.linkedin.com/in/dzhemaptula/)
+[![](https://img.shields.io/badge/-Dzhem%20Aptula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dzhemaptula/)](https://www.linkedin.com/in/dzhemaptula/)
 
 
 ### Spotify
