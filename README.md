@@ -4,6 +4,8 @@ I'm Dzhem.
 
 Part of Mezos team based in Ghent.
 
+Contact me at: `dzhem.aptula@tomtom.com`
+
 ### Linkedin
 [![](https://img.shields.io/badge/-Dzhem%20Aptula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dzhemaptula/)](https://www.linkedin.com/in/dzhemaptula/)
 
