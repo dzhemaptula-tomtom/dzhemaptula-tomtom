@@ -1,8 +1,7 @@
 Hey.
 
 I'm Dzhem.
-
-Part of Mezos team based in Ghent.
+I live in Ghent.
 
 Contact me at: `dzhem.aptula@tomtom.com`
 
